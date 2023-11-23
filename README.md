@@ -11,11 +11,11 @@ Justin Frank, Benjamin Quiring, and Leonidas Lampropoulos. \
 POPL 2024.
 
 <strong>[Analyzing Binding Extent in 3CPS](https://dl.acm.org/doi/pdf/10.1145/3547645).</strong> \
-Benjamin Quiring, John Reppy, Olin Shivers. \
+Benjamin Quiring, John Reppy, and Olin Shivers. \
 ICFP 2022.
 
 <strong>[3CPS: The Design of an Environment-Focussed Intermediate Representation](https://dl.acm.org/doi/pdf/10.1145/3544885.3544889).</strong> \
-Benjamin Quiring, John Reppy, Olin Shivers. \
+Benjamin Quiring, John Reppy, and Olin Shivers. \
 IFL 2021.
 
 <strong>[Multilevel Graph Embedding](https://web.pdx.edu/~panayot/IM-971424-4.pdf).</strong> \
