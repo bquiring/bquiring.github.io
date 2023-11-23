@@ -29,7 +29,7 @@ TACAS 2020.
 
 ### Talks:
 
-#### Flow Analysis <em>For Free<\em>, and Well-typedness Preserving Program Transformations \
+#### Flow Analysis <em>For Free</em>, and Well-typedness Preserving Program Transformations \
 NJPLS at Princeton University, 10 November 2023
 
 #### Generating More Useful STLC Terms \
