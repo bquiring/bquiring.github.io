@@ -14,7 +14,7 @@ POPL 2024.
 Benjamin Quiring, John Reppy, Olin Shivers
 ICFP 2022.
 
-#### 3CPS: The Design of an Environment-Focussed Intermediate Representation
+#### [3CPS: The Design of an Environment-Focussed Intermediate Representation](https://dl.acm.org/doi/pdf/10.1145/3544885.3544889)
 Benjamin Quiring, John Reppy, Olin Shivers
 IFL 2021.
 
@@ -22,7 +22,7 @@ IFL 2021.
 Benjamin Quiring and Panayot Vassilevski
 Numerical Linear Algebra Volume 28, Number 1, 2021.
 
-#### [GACAL: Conjecture-Based Verification - (Competition Contribution)]
+#### [GACAL: Conjecture-Based Verification - (Competition Contribution)](https://www.khoury.northeastern.edu/home/pete/pub/tacas-2020.pdf)
 Benjamin Quiring and Panagiotis Manolios
 TACAS 2020.
 
