@@ -1,5 +1,5 @@
 # Benjamin Quiring
-email `bquiring` (at) `umd.edu`
+email: `bquiring` (at) `umd.edu`
 
 3rd year PhD student in the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland, advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/).
 
@@ -30,10 +30,10 @@ TACAS 2020.
 ### Talks:
 
 <strong>Flow Analysis <em>For Free</em>, and Well-typedness Preserving Program Transformations.</strong> \
-NJPLS at Princeton University, 10 November 2023
+NJPLS at Princeton University, 10 November 2023.
 
 <strong>Generating More Useful STLC Terms.</strong> \
 NJPLS at University of Maryland, 21 October 2023.
 
 <strong>[Analyzing Binding Extent in 3CPS](https://www.youtube.com/watch?v=lO1D88QK-UI).</strong> \
-ICFP 2023
+ICFP 2022.
