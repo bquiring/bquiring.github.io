@@ -29,11 +29,11 @@ TACAS 2020.
 
 ### Talks:
 
-#### Flow Analysis <em>For Free</em>, and Well-typedness Preserving Program Transformations \
+#### Flow Analysis <em>For Free</em>, and Well-typedness Preserving Program Transformations
 NJPLS at Princeton University, 10 November 2023
 
-#### Generating More Useful STLC Terms \
+#### Generating More Useful STLC Terms
 NJPLS at University of Maryland, 21 October 2023.
 
-#### [Analyzing Binding Extent in 3CPS](https://www.youtube.com/watch?v=lO1D88QK-UI) \
+#### [Analyzing Binding Extent in 3CPS](https://www.youtube.com/watch?v=lO1D88QK-UI)
 ICFP 2023
