@@ -1,7 +1,7 @@
 # Benjamin Quiring
 email `bquiring` (at) `umd.edu`
 
-3rd year PhD student at University of Maryland advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/)
+3rd year PhD student in the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/)
 
 
 ### Papers:
