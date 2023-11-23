@@ -1,7 +1,7 @@
 # Benjamin Quiring
-bquiring (at) umd.edu
+email `bquiring` (at) `umd.edu`
 
-
+3rd year PhD student at University of Maryland advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/)
 
 
 ### Papers:
