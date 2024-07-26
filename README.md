@@ -1,10 +1,15 @@
 # Benjamin Quiring
-email: `bquiring` (at) `umd.edu`
+email: `bquiring` (at) `umd.edu` \
+github: [github.com/bquiring](github.com/bquiring)
 
-3rd year PhD student in the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland, advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/).
+4th year PhD student in the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland, advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/).
 
 
 ### Papers:
+
+<strong>[Deriving with Derivatives: Optimizing Incremental Fixpoints for Higher-Order Flow Analysis]({{ site.baseurl }}/pdfs/DerivingWithDerivatives.pdf).</strong>\
+Benjamin Quiring and David Van Horn. \
+ICFP 2024.
 
 <strong>[Generating Well-typed Terms that are not "Useless"](https://lemonidas.github.io/pdf/NotUseless.pdf).</strong> \
 Justin Frank, Benjamin Quiring, and Leonidas Lampropoulos. \
@@ -30,10 +35,13 @@ TACAS 2020.
 ### Talks:
 
 <strong>Flow Analysis <em>For Free</em>, and Well-typedness Preserving Program Transformations.</strong> \
+Jane Street Programming Languages Colloquium, December 2023.
+
+<strong>Flow Analysis <em>For Free</em>, and Well-typedness Preserving Program Transformations.</strong> \
 NJPLS at Princeton University, 10 November 2023.
 
 <strong>Generating More Useful STLC Terms.</strong> \
-NJPLS at University of Maryland, 21 October 2023.
+NJPLS at University of Maryland, 21 October 2022.
 
 <strong>[Analyzing Binding Extent in 3CPS](https://www.youtube.com/watch?v=lO1D88QK-UI).</strong> \
 ICFP 2022.
