@@ -9,7 +9,7 @@ I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/) and [Olin Sh
 
 <strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations]({{ site.baseurl }}/pdfs/Webs.pdf) [(doi)](https://doi.org/10.1145/3729280).</strong>\
 Benjamin Quiring and David Van Horn. \
-ICFP 2024.
+PLDI 2025.
 
 <strong>[Deriving with Derivatives: Optimizing Incremental Fixpoints for Higher-Order Flow Analysis](https://dl.acm.org/doi/10.1145/3674650).</strong>\
 Benjamin Quiring and David Van Horn. \
