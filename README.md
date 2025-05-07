@@ -3,6 +3,7 @@ email: `bquiring` (at) `umd.edu` \
 github: [github.com/bquiring](github.com/bquiring)
 
 4th year PhD student in the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland, advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/).
+
 I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/) and [Olin Shivers](https://www.ccs.neu.edu/home/shivers/)
 
 ### Papers:
