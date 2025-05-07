@@ -39,6 +39,9 @@ TACAS 2020.
 
 ### Talks:
 
+<strong>Verifying Flow-Directed Program Transformations.</strong> \
+NJPLS at Jane Street, 9 May 2025.
+
 <strong>[Deriving with Derivatives: Optimizing Incremental Fixpoints for Higher-Order Flow Analysis](https://www.youtube.com/watch?v=F70QZaMoYJQ&t=2h41m30s).</strong> \
 ICFP 2024.
 
