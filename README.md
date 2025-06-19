@@ -8,8 +8,12 @@ I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/) and [Olin Sh
 
 ### Papers:
 
+<strong>Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages.</strong>\
+Jason Carr, Benjamin Quiring, John Reppy, Olin Shivers, Skye Soss, and Byron Zhong. \
+In submission.
+
 <strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations](https://dl.acm.org/doi/10.1145/3729280).</strong>\
-Benjamin Quiring, David Van Horn, John Reppy, Olin Shivers. \
+Benjamin Quiring, David Van Horn, John Reppy, and Olin Shivers. \
 PLDI 2025.
 
 <strong>[Deriving with Derivatives: Optimizing Incremental Fixpoints for Higher-Order Flow Analysis](https://dl.acm.org/doi/10.1145/3674650).</strong>\
