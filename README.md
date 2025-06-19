@@ -8,8 +8,8 @@ I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/) and [Olin Sh
 
 ### Papers:
 
-<strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations]({{ site.baseurl }}/pdfs/Webs.pdf) [(doi)](https://doi.org/10.1145/3729280).</strong>\
-Benjamin Quiring and David Van Horn. \
+<strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations](https://dl.acm.org/doi/10.1145/3729280).</strong>\
+Benjamin Quiring, David Van Horn, John Reppy, Olin Shivers. \
 PLDI 2025.
 
 <strong>[Deriving with Derivatives: Optimizing Incremental Fixpoints for Higher-Order Flow Analysis](https://dl.acm.org/doi/10.1145/3674650).</strong>\
@@ -38,6 +38,9 @@ TACAS 2020.
 
 
 ### Talks:
+
+<strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations](https://www.youtube.com/watch?v=ubfPyMCvhXs&t=3h27m30s).</strong> \
+PLDI 2025.
 
 <strong>Verifying Flow-Directed Program Transformations.</strong> \
 NJPLS at Jane Street, 9 May 2025.
