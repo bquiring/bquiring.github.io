@@ -2,15 +2,19 @@
 email: `bquiring` (at) `umd.edu` \
 github: [github.com/bquiring](github.com/bquiring)
 
-4th year PhD student in the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland, advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/).
+5th year PhD student in the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland, advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/).
 
-I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/) and [Olin Shivers](https://www.ccs.neu.edu/home/shivers/)
+I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/), [Olin Shivers](https://www.ccs.neu.edu/home/shivers/), Skye Soss, Byron Zhong, Jason Carr, and Lingxiao Zheng.
 
-### Papers:
+### Conference Articles
 
-<strong>Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages.</strong>\
-Jason Carr, Benjamin Quiring, John Reppy, Olin Shivers, Skye Soss, and Byron Zhong. \
+<strong>Compositional Verification of Flow-directed Transformations.</strong>\
+Benjamin Quiring and Lingxiao Zheng. \
 In submission.
+
+<strong>[Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages](pdfs/caller-provided-environment.pdf).</strong>\
+Jason Carr, Benjamin Quiring, John Reppy, Olin Shivers, Skye Soss, and Byron Zhong. \
+ICFP 2025.
 
 <strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations](https://dl.acm.org/doi/10.1145/3729280).</strong>\
 Benjamin Quiring, David Van Horn, John Reppy, and Olin Shivers. \
@@ -40,8 +44,7 @@ Numerical Linear Algebra Volume 28, Number 1, 2021.
 Benjamin Quiring and Panagiotis Manolios. \
 TACAS 2020.
 
-
-### Talks:
+### Talks
 
 <strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations](https://www.youtube.com/watch?v=ubfPyMCvhXs&t=3h27m30s).</strong> \
 PLDI 2025.
@@ -64,3 +67,6 @@ NJPLS at University of Maryland, 21 October 2022.
 <strong>[Analyzing Binding Extent in 3CPS](https://www.youtube.com/watch?v=lO1D88QK-UI).</strong> \
 ICFP 2022.
 
+### Service
+
+OOPSLA 2025 Artifact Review.
