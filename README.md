@@ -5,7 +5,7 @@ github: [github.com/bquiring](github.com/bquiring) \
 
 5th year PhD student in the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland, advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/).
 
-I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/), [Olin Shivers](https://www.ccs.neu.edu/home/shivers/), Skye Soss, Byron Zhong, Jason Carr, and Lingxiao Zheng.
+I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/), [Olin Shivers](https://www.ccs.neu.edu/home/shivers/), [Skye Soss](https://people.cs.uchicago.edu/~ssoss/), [Byron Zhong](https://people.cs.uchicago.edu/~byronzhong/), Jason Carr, and Lingxiao Zheng.
 
 ### Conference Articles
 
