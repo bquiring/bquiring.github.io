@@ -11,8 +11,8 @@ I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/), [Olin Shive
 
 <strong>Globalizing Environment and Values in Higher-Order Languages.</strong>\
 Jason Carr, Benjamin Quiring, John Reppy, Olin Shivers, Skye Soss, Ling Zheng, and Byron Zhong.\* \
-In submission.
-\**Authors are in alphabetical order* \
+In submission. \
+\**Authors are in alphabetical order*
 
 <strong>Compositional Verification of Flow-directed Transformations.</strong>\
 Benjamin Quiring and Lingxiao Zheng. \
@@ -20,8 +20,8 @@ In submission.
 
 <strong>[Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages](https://dl.acm.org/doi/10.1145/3747516).</strong>\
 Jason Carr, Benjamin Quiring, John Reppy, Olin Shivers, Skye Soss, and Byron Zhong.\* \
-ICFP 2025.
-\**Authors are in alphabetical order* \
+ICFP 2025. \
+\**Authors are in alphabetical order*
 
 <strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations](https://dl.acm.org/doi/10.1145/3729280).</strong>\
 Benjamin Quiring, David Van Horn, John Reppy, and Olin Shivers. \
