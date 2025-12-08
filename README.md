@@ -32,7 +32,7 @@ Benjamin Quiring and David Van Horn. \
 ICFP 2024.
 
 <strong>[Generating Well-typed Terms that are not "Useless"](https://dl.acm.org/doi/10.1145/3632919).</strong> \
-Justin Frank, Benjamin Quiring, and Leonidas Lampropoulos. \
+Justine Frank, Benjamin Quiring, and Leonidas Lampropoulos. \
 POPL 2024.
 
 <strong>[Analyzing Binding Extent in 3CPS](https://dl.acm.org/doi/10.1145/3547645).</strong> \
@@ -75,7 +75,7 @@ Jane Street Programming Languages Colloquium, December 2023.
 NJPLS at Princeton University, 10 November 2023.
 
 <strong>Generating More Useful STLC Terms.</strong> \
-NJPLS at University of Maryland, 21 October 2022.
+With Justine Frank. NJPLS at University of Maryland, 21 October 2022.
 
 <strong>[Analyzing Binding Extent in 3CPS](https://www.youtube.com/watch?v=lO1D88QK-UI).</strong> \
 ICFP 2022.
