@@ -8,12 +8,18 @@ I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/), [Olin Shive
 
 ### Conference Articles
 
+<strong>Globalizing Environment and Values in Higher-Order Languages.</strong>\
+Jason Carr, Benjamin Quiring, John Reppy, Olin Shivers, Skye Soss, Ling Zheng, and Byron Zhong.\* \
+\* *Authors are in alphabetical order* \
+In submission.
+
 <strong>Compositional Verification of Flow-directed Transformations.</strong>\
 Benjamin Quiring and Lingxiao Zheng. \
 In submission.
 
-<strong>[Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages](pdfs/caller-provided-environment.pdf).</strong>\
-Jason Carr, Benjamin Quiring, John Reppy, Olin Shivers, Skye Soss, and Byron Zhong. \
+<strong>[Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages](https://dl.acm.org/doi/10.1145/3747516).</strong>\
+Jason Carr, Benjamin Quiring, John Reppy, Olin Shivers, Skye Soss, and Byron Zhong.\* \
+\* *Authors are in alphabetical order* \
 ICFP 2025.
 
 <strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations](https://dl.acm.org/doi/10.1145/3729280).</strong>\
@@ -45,6 +51,12 @@ Benjamin Quiring and Panagiotis Manolios. \
 TACAS 2020.
 
 ### Talks
+
+<strong>Verifying Flow-Directed Program Transformations.</strong> \
+With Ling Zheng. NJPLS at Princeton, 5 Dec 2025.
+
+<strong>[Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages](https://www.youtube.com/watch?v=gAbieARpHtk&t=0h43m10s).</strong> \
+ICFP 2025.
 
 <strong>[Webs and Flow-Directed Well-Typedness Preserving Program Transformations](https://www.youtube.com/watch?v=ubfPyMCvhXs&t=3h27m30s).</strong> \
 PLDI 2025.
