@@ -3,7 +3,9 @@ email: `bquiring` (at) `umd.edu` \
 github: [github.com/bquiring](https://github.com/bquiring) \
 [google scholar](https://scholar.google.com/citations?user=bq5XpzsAAAAJ&hl=en&oi=sra)
 
-5th year PhD student in the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland, advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/).
+Recent PhD graduate from the [PLUM lab](https://plum-umd.github.io/) at the University of Maryland, advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/).
+
+I've recently been using LLM agents to implement my dissertation work in GHC, and to extend my verified compilers work.
 
 I also work with [John Reppy](https://people.cs.uchicago.edu/~jhr/), [Olin Shivers](https://www.ccs.neu.edu/home/shivers/), [Skye Soss](https://people.cs.uchicago.edu/~ssoss/), [Byron Zhong](https://people.cs.uchicago.edu/~byronzhong/), Jason Carr, and Lingxiao Zheng.
 
@@ -16,7 +18,7 @@ In submission. \
 
 <strong>Compositional Verification of Flow-directed Transformations.</strong>\
 Benjamin Quiring and Lingxiao Zheng. \
-In submission.
+POPL 2027.
 
 <strong>[Environment-Sharing Analysis and Caller-Provided Environments for Higher-Order Languages](https://dl.acm.org/doi/10.1145/3747516).</strong>\
 Jason Carr, Benjamin Quiring, John Reppy, Olin Shivers, Skye Soss, and Byron Zhong.\* \
