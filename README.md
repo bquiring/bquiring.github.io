@@ -84,4 +84,7 @@ ICFP 2022.
 
 ### Service
 
-OOPSLA 2025 Artifact Review.
+OOPSLA 2025 Artifact Evaluation Committee.
+PLDI 2026 Artifact Evaluation Committee.
+POPL 2027 Artifact Evaluation Committee.
+[Rocqshop 2027](https://coq-workshop.gitlab.io/2026/) Committee Member.
